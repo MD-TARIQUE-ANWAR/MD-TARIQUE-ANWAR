@@ -21,6 +21,11 @@
   </a>
 </p>
 
+<p align="center">
+  📧 Email: <a href="mailto:tanwar72099@gmail.com">tanwar72099@gmail.com</a><br>
+  📞 Contact: <a href="tel:+917209976603">+91 7209976603</a>
+</p>
+
 
 ---
 
