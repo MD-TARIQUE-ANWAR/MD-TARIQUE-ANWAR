@@ -42,53 +42,57 @@ I specialize in AWS services, CI/CD pipelines, containerization, monitoring, and
 
 ## 💼 **Experience**
 
-### **HindAir Product Pvt Ltd – Technical Head**  
-📍 Chandigarh/Mohali | *March 2025 – Present*  
-- Managed operational workflows and digital reporting systems  
-- Led troubleshooting, system maintenance, and software coordination  
-- Ensured reliability and data integrity for business operations  
+### **HindAir Product Pvt. Ltd** — *Technical Head*  
+📍 Chandigarh / Mohali | **March 2025 – Present**  
+- Led daily operations and software systems used in the gases industry  
+- Managed employees for reporting, software usage, and data handling  
+- Ensured smooth workflow through digital tools  
+- Troubleshot technical issues, report generation, and coordination  
+- Ensured system reliability and data integrity  
 
 ---
 
-### **Bulwark Software Research Pvt Ltd – Software Support Engineer**  
-📍 Chandigarh/Mohali | *April 2024 – Feb 2025*  
-- Provided client support via chat, email, and ticketing systems  
-- Data handling, reporting, testing, and backend troubleshooting  
-- Documentation for user guides and feature improvements  
+### **Bulwark Software Research Pvt. Ltd** — *Software Support Engineer*  
+📍 Chandigarh / Mohali | **April 2024 – Feb 2025**  
+- Provided customer tech support via chat, email, ticketing  
+- Managed data, reporting, product testing, and troubleshooting  
+- Prepared documentation for FAQs & user guides  
+- Supported the development team with testing & bug reports  
 
 ---
 
-### **Bulwark Software Research Pvt Ltd – Full Stack Intern**  
-📍 Ranchi | *March – April 2024*  
-- Built REST APIs using Node.js & Express  
-- Created responsive web apps (HTML, CSS, JS, React)  
-- Improved UI/UX and collaborated on real-time development  
+### **Bulwark Software Research Pvt. Ltd** — *Full Stack Developer (Intern)*  
+📍 Ranchi, Jharkhand | **March – April 2024**  
+- Worked on frontend & backend (HTML, CSS, JS, React, Node.js)  
+- Developed REST APIs using Node.js & Express  
+- Built responsive websites & dashboard apps  
+- Improved UI/UX through real-time project collaboration  
+- Hands-on experience in Git & development workflows  
+  
 
 ---
 
 ## 🎓 **Education**
-- **MCA – AISECT University, Hazaribagh** (2026)  
-- **BCA – Capital University, Koderma** (CGPA: 7.66/10)  
-- Intermediate (Science), Matriculation (CBSE)
+- **Master of Computer Application (MCA)**  
+  *AISECT University, Hazaribagh* — *Expected 2026*
+
+- **Bachelor of Computer Application (BCA)**  
+  *Capital University, Koderma* — CGPA: **7.66/10**
+
+- **Intermediate (Science)** — Vinoba Bhave University (2020)
+
+- **Matriculation (CBSE)** — Munam Public School (2018)
 
 ---
 
 ## 📊 **GitHub Stats**
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MD-TARIQUE-ANWAR&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-TARIQUE-ANWAR&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 **Top Languages**
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TARIQUE-ANWAR&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## ✨ **Fun Fact**
 ⚡ I love automating repetitive tasks and turning manual processes into powerful scripts!
