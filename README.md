@@ -3,10 +3,24 @@
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist</h3>
 
 <p align="center">
-  <a href="mailto:tanwar72099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/md-tarique-anwar-7592652b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/MD-TARIQUE-ANWAR"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:tanwar72099@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/md-tarique-anwar-7592652b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/MD-TARIQUE-ANWAR">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <!-- Call Button -->
+  <a href="tel:+7209976603">
+    <img src="https://img.shields.io/badge/Call Me-25D366?style=for-the-badge&logo=phone&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
