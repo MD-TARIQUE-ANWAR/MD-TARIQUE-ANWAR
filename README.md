@@ -75,11 +75,15 @@ I specialize in AWS services, CI/CD pipelines, containerization, monitoring, and
 
 ---
 
-## 📊 **GitHub Stats**
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-TARIQUE-ANWAR&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MD-TARIQUE-ANWAR&show_icons=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TARIQUE-ANWAR&layout=compact&theme=transparent" />
 </p>
+
 
 
 ---
