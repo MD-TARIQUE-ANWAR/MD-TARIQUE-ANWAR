@@ -2,13 +2,15 @@
 <h1 align="center">👋 Hi, I'm <strong>Md Tarique Anwar</strong></h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist</h3>
 
+
 <p align="center">
-  <a href="mailto:atanwar72099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/MD-TARIQUE-ANWAR"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
+<p align="center">
+  📧 Email: <a href="mailto:tanwar72099@gmail.com">tanwar72099@gmail.com</a><br>
+  📞 Contact: <a href="tel:+916207024685">+91 7209976603</a>
+</p>
 
 ## 🧑‍💼 **About Me**
 I am a highly motivated DevOps Engineer with 3+ years of experience across cloud operations, automation, and full-stack development.  
@@ -76,17 +78,17 @@ I specialize in AWS services, CI/CD pipelines, containerization, monitoring, and
 ## 📊 **GitHub Stats**
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MD-TARIQUE-ANWAR&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-TARIQUE-ANWAR&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-TARIQUE-ANWAR&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
 ## 🚀 **Top Languages**
-
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TARIQUE-ANWAR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-TARIQUE-ANWAR&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
