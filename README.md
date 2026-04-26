@@ -13,11 +13,20 @@
 </p>
 
 ## 🧑‍💼 **About Me**
-I am a highly motivated DevOps Engineer with 3+ years of experience across cloud operations, automation, and full-stack development.  
-I specialize in AWS services, CI/CD pipelines, containerization, monitoring, and building scalable digital systems.
+IT Operations Executive with 2+ years of experience in application support, system monitoring, and IT operations management.
 
-💡 *Passionate about automation, cloud optimization, and high-availability systems.*
+Currently working at Hindair Product Pvt. Ltd. as Technical Head, managing IT systems, troubleshooting issues, and ensuring smooth business operations.
 
+Previously worked at Bulwark Software Research Pvt. Ltd., where I provided remote and on-site application support, handled client queries, and resolved technical issues efficiently.
+
+Key Skills:
+• Application Support & Troubleshooting
+• System Monitoring & Incident Management
+• MS Excel (Advanced – VLOOKUP, Reporting)
+• Client Handling & Issue Resolution
+• Data Management & Reporting
+
+I am actively seeking IT Support / Application Support roles in the Gulf region.
 ---
 
 ## 🛠️ **Tech Stack & Tools**
@@ -44,20 +53,24 @@ I specialize in AWS services, CI/CD pipelines, containerization, monitoring, and
 
 ## 💼 **Experience**
 
-### **HindAir Product Pvt Ltd – Technical Head**  
+### **HindAir Product Pvt Ltd – IT Operations Executive **  
 📍 Chandigarh/Mohali | *March 2025 – Present*  
-- Managed operational workflows and digital reporting systems  
-- Led troubleshooting, system maintenance, and software coordination  
-- Ensured reliability and data integrity for business operations  
+• Managing IT systems and daily operational workflows  
+• Monitoring system performance and resolving technical issues  
+• Handling application support and end-user troubleshooting  
+• Managing employee attendance & payroll data using MS Excel  
+• Preparing reports and maintaining data accuracy  
+• Coordinating with vendors for system improvements  
+• Ensuring data backup and system reliability    
 
 ---
 
-### **Bulwark Software Research Pvt Ltd – Software Support Engineer**  
-📍 Chandigarh/Mohali | *April 2024 – Feb 2025*  
-- Provided client support via chat, email, and ticketing systems  
-- Data handling, reporting, testing, and backend troubleshooting  
-- Documentation for user guides and feature improvements  
-
+### **Bulwark Software Research Pvt Ltd – Application Support Engineer **  
+• Provided remote support (Feb–Jun 2024) and on-site support (Jul 2024–Feb 2025)  
+• Deployed software at client location (Chandigarh)  
+• Resolved technical issues and handled client queries  
+• Coordinated with development team for bug fixes  
+• Prepared reports and documentation  
 ---
 
 ### **Bulwark Software Research Pvt Ltd – Full Stack Intern**  
