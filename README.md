@@ -63,7 +63,6 @@ I am actively seeking IT Support / Application Support roles in the Gulf region.
 • Coordinating with vendors for system improvements  
 • Ensuring data backup and system reliability    
 
----
 
 ### **Bulwark Software Research Pvt Ltd – Application Support Engineer **  
 • Provided remote support (Feb–Jun 2024) and on-site support (Jul 2024–Feb 2025)  
@@ -71,7 +70,6 @@ I am actively seeking IT Support / Application Support roles in the Gulf region.
 • Resolved technical issues and handled client queries  
 • Coordinated with development team for bug fixes  
 • Prepared reports and documentation  
----
 
 ### **Bulwark Software Research Pvt Ltd – Full Stack Intern**  
 📍 Ranchi | *March – April 2024*  
