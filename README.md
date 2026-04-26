@@ -1,6 +1,9 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm <strong>Md Tarique Anwar</strong></h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Specialist</h3>
+<h3 align="center">🚀 IT & OPERATIONS EXECUTIVE
+APPLICATION SUPPORT ENGINEER | IT SUPPORT |
+SYSTEM MONITORING | TROUBLESHOOTING |
+INCIDENT MANAGEMENT</h3>
 
 
 <p align="center">
@@ -27,29 +30,46 @@ Key Skills:
 • Data Management & Reporting
 
 I am actively seeking IT Support / Application Support roles in the Gulf region.
----
 
 ## 🛠️ **Tech Stack & Tools**
 
-### ☁️ Cloud & DevOps  
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🧪 Scripting / Programming  
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 💻 IT Operations & Support
+![Application Support](https://img.shields.io/badge/Application%20Support-blue)
+![System Monitoring](https://img.shields.io/badge/System%20Monitoring-green)
+![Incident Management](https://img.shields.io/badge/Incident%20Management-orange)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-red)
+![Software Deployment](https://img.shields.io/badge/Software%20Deployment-yellow)
 
 ---
+
+### 📊 Data & Reporting
+![MS Excel](https://img.shields.io/badge/MS%20Excel-Advanced-green)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP-blue)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-orange)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-yellow)
+![Reporting](https://img.shields.io/badge/Reporting-red)
+
+---
+
+### 🖥️ Systems & Tools
+![Windows OS](https://img.shields.io/badge/Windows%20OS-blue)
+![Basic Networking](https://img.shields.io/badge/Basic%20Networking-green)
+![IT Support](https://img.shields.io/badge/IT%20Support-orange)
+![Technical Support](https://img.shields.io/badge/Technical%20Support-red)
+
+---
+
+### 🌐 Basic Development Knowledge
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+
+---
+
+### ☁️ Currently Learning
+![AWS](https://img.shields.io/badge/AWS-Basic-yellow)
+![Docker](https://img.shields.io/badge/Docker-Basic-blue)
 
 ## 💼 **Experience**
 
@@ -91,11 +111,9 @@ I am actively seeking IT Support / Application Support roles in the Gulf region.
 • Intermediate (Science) – Vinoba Bhave University (VBU), Hazaribagh
   (2020)
 
-• Matriculation (CBSE Board) - Munap Public School, Hazaribagh
+• Matriculation (CBSE Board) - Munam Public School, Hazaribagh
   (2018)
----
 
----
 
 ### 📊 GitHub Stats
 
@@ -116,10 +134,8 @@ I am actively seeking IT Support / Application Support roles in the Gulf region.
 
 ---
 
-## ✨ **Fun Fact**
-⚡ I love automating repetitive tasks and turning manual processes into powerful scripts!
-
----
+## ✨ Fun Fact
+⚡ I specialize in resolving real-time IT issues and ensuring smooth business operations with minimal downtime.
 
 ### ⭐ **Thanks for visiting my profile!**  
 Feel free to explore my repositories and connect with me.
