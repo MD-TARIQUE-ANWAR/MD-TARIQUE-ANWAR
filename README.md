@@ -65,6 +65,7 @@ I am actively seeking IT Support / Application Support roles in the Gulf region.
 
 
 ### **Bulwark Software Research Pvt Ltd – Application Support Engineer **  
+ 📍 Chandigarh/Mohali | *Feb 2024 – Feb 2025*  
 • Provided remote support (Feb–Jun 2024) and on-site support (Jul 2024–Feb 2025)  
 • Deployed software at client location (Chandigarh)  
 • Resolved technical issues and handled client queries  
@@ -79,11 +80,19 @@ I am actively seeking IT Support / Application Support roles in the Gulf region.
 
 ---
 
-## 🎓 **Education**
-- **MCA – AISECT University, Hazaribagh** (2026)  
-- **BCA – Capital University, Koderma** (CGPA: 7.66/10)  
-- Intermediate (Science), Matriculation (CBSE)
+🎓 Education
 
+• Master of Computer Applications (MCA) – AISECT University, Hazaribagh  
+  (2024 – 2026 | Pursuing)
+
+• Bachelor of Computer Applications (BCA) – Capital University, Koderma  
+  (2021 – 2024 | CGPA: 7.66/10)
+
+• Intermediate (Science) – Vinoba Bhave University (VBU), Hazaribagh
+  (2020)
+
+• Matriculation (CBSE Board) - Munap Public School, Hazaribagh
+  (2018)
 ---
 
 ---
